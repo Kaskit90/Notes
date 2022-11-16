@@ -1,3 +1,3 @@
 # Notes
 
-This repo contains notes for learning Azure 104
+This repo contains notes for learning Azure 104.
