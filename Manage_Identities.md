@@ -48,6 +48,8 @@ In this module, you learned about Azure AD features and explored implementation 
 
 [Azure Active Directory Interactive Walk Through](https://learn.microsoft.com/en-us/training/modules/configure-user-group-accounts/7-simulation-user-groups)
     - Walk through on setting up users and creating groups and tenants
+  
+[Lakeside Builders Active Directory](https://aad.portal.azure.com/#view/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/~/Overview)
 
 ### QUESTIONS FOR REVIEW
 
