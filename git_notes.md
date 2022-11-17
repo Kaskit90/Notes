@@ -1,6 +1,6 @@
 # GIT NOTES
 
-This file is a short cut reminder for git functions. 
+This file is a short cut reminder for git functions.
 
 ## UPDATE TO GITHUB
 
