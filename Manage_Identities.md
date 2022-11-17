@@ -60,3 +60,9 @@ In this module, you learned about Azure AD features and explored implementation 
    - Answer - Security Group. Only users with security permissions will have access to these groups.
 
 3. Global administrator enables a user to manage all groups in you Teams tenants, and also assign other admin roles. You can not create accounts if you are not an admin account.
+
+## SUMMARY
+
+1. Azure Administrators must be familiar with configuring user and group accounts in Azure Active Directory.
+
+In this module, you learned that every user who wants access to Azure resources needs an Azure user account. Azure AD supports access to your organization's resources by assigning access rights to users and groups. You discovered how user and group accounts are created in Azure AD. You explored how to configure and manage user and group accounts, including bulk configuration. You reviewed how your organization can support group account organization, and manage accounts across multiple directories.
