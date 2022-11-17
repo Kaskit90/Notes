@@ -4,7 +4,7 @@
 
 ## Identify Azure Regions
 
-1. Microsoft Azure is made up of datacenters around the globe. Organized based on end users region.Datacenters are in close proximity and networked together with a low-latenccy nnetwork.
+1. Microsoft Azure is made up of datacenters around the globe. Organized based on end users region.Datacenters are in close proximity and networked together with a low-latenccy network.
 
 ### Things To Know About Regions
 
@@ -12,7 +12,7 @@
 2. Azure has more regoins than any other cloud servers.
 3. Regions provide you with flexibility and scaling to bring applications to end points/ users.
 4. Regional pairs are two azure regions paired together to support always on availability of Azure resources.
-5. [Chart of Characeristics and Description](https://learn.microsoft.com/en-us/training/modules/configure-subscriptions/2-identify-regions) - Eplanation of Paired Regions and what their purpose is.
+5. [Chart of Characeristics and Description](https://learn.microsoft.com/en-us/training/modules/configure-subscriptions/2-identify-regions) - Explination of Paired Regions and what their purpose is.
 
 ### Things to consider when using regions and regional pairs
 
