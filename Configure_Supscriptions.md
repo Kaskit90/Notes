@@ -1,5 +1,11 @@
 # **CONFIGURE SUBSCRIPTIONS**
 
+## Summary and Resources
+
+- Azure Administrators commonly obtain and manage Azure subscriptions. Azure subscriptions help you effectively identify and manage costs for your organization, so you can provide services and resources for specific scenarios.
+
+- In this module, you learned about supported Azure regions, and how to locate Azure services. You reviewed the features and use cases for Azure subscriptions, and how to obtain subscriptions. You explored features and billing for different types of Azure subscriptions, and how to apply resource tagging. You discovered how Microsoft Cost Management can be used for cost analysis, and learned how to identify ways you can reduce your billing costs.
+
 ## **TOC**
 
 [Introduction](https://learn.microsoft.com/en-us/training/modules/configure-subscriptions/1-introduction) - Link to learning objectives and skills measured in this section.
@@ -60,3 +66,21 @@
 - A resource or resource group can have a maximum of 50 tag name/value pairs.
 - Tags applied to a resource group aren't inherited by the resources in the resource group.
 [Resource Tagging](https://learn.microsoft.com/en-us/training/modules/configure-subscriptions/7-apply-resource-tagging)
+
+## Apply cost Savings
+
+[Options for Cost Saving](https://learn.microsoft.com/en-us/training/modules/configure-subscriptions/8-apply-cost-savings) - Table explaning different methods to group and configure your azure resources to cut expenses.
+
+### KNOWLEDGE CHECK
+
+The company financial controller wants to be notified whenever the company is half-way to spending the money allocated for cloud services. Which approach supports this request?
+
+- Create a Budgeet and spending threshold.
+
+The company financial controller wants to identify which billing department each Azure resource belongs to. Which approach enables this requirement?
+
+- Apply a tag to each resource that includes the associated biling department.
+
+Which option preserves data residency, and offers comprehensive compliance and resiliency options?
+
+- Regions
