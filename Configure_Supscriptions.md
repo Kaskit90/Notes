@@ -1,6 +1,6 @@
 # CONFIGURE SUBSCRIPTIONS
 
-[Introduction](https://learn.microsoft.com/en-us/training/modules/configure-subscriptions/1-introduction) - Link to learning opjectives and skills measured in this section.
+[Introduction](https://learn.microsoft.com/en-us/training/modules/configure-subscriptions/1-introduction) - Link to learning objectives and skills measured in this section.
 
 ## Identify Azure Regions
 
