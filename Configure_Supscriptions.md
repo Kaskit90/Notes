@@ -1,6 +1,16 @@
-# CONFIGURE SUBSCRIPTIONS
+# **CONFIGURE SUBSCRIPTIONS**
+
+## **TOC**
 
 [Introduction](https://learn.microsoft.com/en-us/training/modules/configure-subscriptions/1-introduction) - Link to learning objectives and skills measured in this section.
+
+[Chart of Characeristics and Description](https://learn.microsoft.com/en-us/training/modules/configure-subscriptions/2-identify-regions) - Explination of Paired Regions and what their purpose is.
+
+[Azure Geographies](https://azure.microsoft.com/en-us/explore/global-infrastructure/geographies/#overview) - Link to azure geological locations and regions.
+
+[Ways to Aquire Azure Subscriptions](https://learn.microsoft.com/en-us/training/modules/configure-subscriptions/4-obtain-subscription) - Different options suit different organizatons needs.
+
+[Resource Tagging](https://learn.microsoft.com/en-us/training/modules/configure-subscriptions/7-apply-resource-tagging) - when, why, and how to apply resource tagging.
 
 ## Identify Azure Regions
 
@@ -41,3 +51,12 @@
 - Tracks spend through azure to help manage subscriptions and usage.
 - Show internal and external cost of Azure Marketplace.
 - Can be integrated with 3rd party anylitic programs to track cost spending.
+
+## Things to know about resource tags
+
+- Each resource tag has a name and a value.
+- The tag name remains constant for all resources that have the tag applied.
+- The tag value can be selected from a defined set of values, or unique for a specific resource instance.
+- A resource or resource group can have a maximum of 50 tag name/value pairs.
+- Tags applied to a resource group aren't inherited by the resources in the resource group.
+[Resource Tagging](https://learn.microsoft.com/en-us/training/modules/configure-subscriptions/7-apply-resource-tagging)
